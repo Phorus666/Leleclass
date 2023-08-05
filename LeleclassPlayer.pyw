@@ -33,7 +33,7 @@ def play_next_video():
     current_video_number = next_video_number
 
 root = tk.Tk()
-root.title("LeleclassPlayer by Phorus666")
+root.title("LePlayer by YuZX")
 root.geometry("380x250")  # 设置窗口大小
 root.resizable(False, False)  # 禁止调整大小
 #调用api设置成由应用程序缩放
