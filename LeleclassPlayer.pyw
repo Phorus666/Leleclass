@@ -34,7 +34,7 @@ def play_next_video():
 
 root = tk.Tk()
 root.title("LePlayer by YuZX")
-root.geometry("380x250")  # 设置窗口大小
+root.geometry("420x250")  # 设置窗口大小
 root.resizable(False, False)  # 禁止调整大小
 #调用api设置成由应用程序缩放
 ctypes.windll.shcore.SetProcessDpiAwareness(1)
